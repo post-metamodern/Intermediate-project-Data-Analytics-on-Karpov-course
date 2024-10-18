@@ -1,1 +1,1 @@
-# Intermediate_project_Data_Analytics_on_Karpov_course
+# Intermediate-project-Data-Analytics-on-Karpov-course
